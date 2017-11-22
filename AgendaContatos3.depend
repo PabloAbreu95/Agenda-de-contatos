@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511130655 source:c:\users\pablo\desktop\ufma\laboratório de programação\agendacontatos3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"contatos.h"
+	<locale.h>
+	<windows.h>
+
+1511192115 c:\users\pablo\desktop\ufma\laboratório de programação\agendacontatos3\contatos.h
+
